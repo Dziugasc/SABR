@@ -1,0 +1,18 @@
+﻿<root>
+	<radio name="ZIP fm" path="http://84.46.205.13:80/zipfm64.aac"  type="4"/>
+	<radio name="European Hit Radio" path="http://84.46.162.57:8000/ehr"  type="4"/> 
+	<radio name="Dubstep, drum and bass" path="http://stream.dubbase.fm:7002"  type="2"/>
+	<radio name="Electro, dance, house" path="http://stream.electroradio.ch:26630/listen.pls" type="2" />
+	<radio name="60s 70s 80s 90s rock" path="http://mp3uplink.duplexfx.com:8132/" type="3" />
+	<radio name="Hip hop, rap, rnb" path="http://mp3uplink.duplexfx.com:8054/listen.pls" type="4" />
+	<radio name="Reggae n Dancehall" path="http://www.raggakings.net/listen.wax" type="2" />
+	<radio name="Dirty South FM" path="http://www.dirtysouthradioonline.com/broadband-128.asx" type="4" />
+	<radio name="Smooth Jazz Station" path="http://www.1.fm/go/baysmoothjazz128k.asx" type="4" />
+	<radio name="Rock Web Station" path="http://107.170.188.129:8000" type="1" />
+	<!--<radio name="test direct linka" path="http://www16.speedyshare.com/files/30069639/download/Butch%20Clancy%20-%20Russian%20Lullaby.mp3" type="4" />-->
+
+	
+	<!--radio type 0 = GTA radio; type 1 = grunge font for metal, rock etc; type 2 = future font for electro, techno, dubstep, rave, dance etc; type 3 = brush font for 60&70&80&90, classic, psychodelic and progressive, type 4 = other, normal font like in type 0 (but dont use type 0) -->
+	<!-- type = gta radio, type 1+ = internet radio -->
+</root>
+</root>
