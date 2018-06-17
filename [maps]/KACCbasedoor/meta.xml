@@ -1,0 +1,4 @@
+<meta>
+	<info author="svx" version="0.2" type="script" />
+	<script src="kaccdoor.lua" type="server" />
+</meta>

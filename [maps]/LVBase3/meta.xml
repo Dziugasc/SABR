@@ -1,0 +1,7 @@
+<meta>
+    <info type="map" version="1.0.0"></info>
+    <map src="LVBaze3.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="door.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>
