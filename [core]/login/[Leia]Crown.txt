@@ -1,0 +1,10 @@
+-------   Creditos ~ # C R O W N -------------------
+
+Facebook: https://www.facebook.com/profile.php?id=100011010371291
+
+Coloca na acl admin o nome da pasta do login pra não bugar os usuario
+exemplo:
+  resource.[Crown]Login
+
+
+-------   Creditos ~ # C R O W N -------------------

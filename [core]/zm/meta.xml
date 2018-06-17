@@ -1,0 +1,16 @@
+<meta>
+	<info author="Dutchman101" name="Zombies in area" type="script" description="Area where aggressive zombies spawn within bounds" version="1.6"/>
+	<oop>true</oop>
+	<script src="zombies_s.lua" type="server" />
+	<script src="zombies_c.lua" type="client" />
+	<file src="sounds/mgroan1.ogg" />
+	<file src="sounds/mgroan2.ogg" />
+	<file src="sounds/mgroan3.ogg" />
+	<file src="sounds/mgroan4.ogg" />
+	<file src="sounds/mgroan5.ogg" />
+	<file src="sounds/mgroan6.ogg" />
+	<file src="sounds/mgroan7.ogg" />
+	<file src="sounds/mgroan8.ogg" />
+	<file src="sounds/mgroan9.ogg" />
+	<file src="sounds/mgroan10.ogg" />
+</meta>
