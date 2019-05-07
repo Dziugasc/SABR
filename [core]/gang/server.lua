@@ -36,7 +36,7 @@ addEventHandler( "onPlayerInvite", root, Invite )
     			-- Let the player know
     			outputChatBox( "You ignored the gang invitation.", client, 255, 0, 0 )
     		end
-    	elseif wasAccepted then -- If the invite was accepted but we had no team element, let's say we don't have that team anymore
+    	elseif wasAccepted then -- If the invite was accepted but we had no team element, let's say we don't have that team anymore.
     		outputChatBox( "This gang does not exist.", client, 255, 0, 0 )
     	end
     end
