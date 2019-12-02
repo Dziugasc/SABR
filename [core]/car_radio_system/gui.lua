@@ -1,4 +1,4 @@
-﻿showPlayerHudComponent ("radio", false)
+﻿setPlayerHudComponentVisible ("radio", false)
 local sx,sy = guiGetScreenSize ()
 radioListGui = {}
 helpGui = {}
