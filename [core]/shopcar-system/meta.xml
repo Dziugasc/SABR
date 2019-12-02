@@ -1,0 +1,28 @@
+﻿<meta>
+
+    <info author="Apollo &amp; LordHenry" type="script" version="1.8.3" name="Concessionarias" description="Adiciona lojas de carros ao seu servidor e eles ficam salvos na sua conta." />    
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    <script src="fix-bug.lua" type="server" />
+    <script src="colorpicker/colorpicker.lua" type="client" cache="false" />
+    <file src="colorpicker/palette.png" />
+    <file src="colorpicker/alpha.png" />
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+	<script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+	<map src="shopcar.map" dimension="0"></map>
+	<script src="teleConce.lua" type="server" />
+	<settings>
+		<setting name="*priceRepair" value="[2000]"
+					friendlyname="Custo para reparar o veiculo"
+					accept="0-10000"
+					group="Custos de serviço:"
+					desc="Esta configuração determina quanto de dinheiro o jogador vai gastar toda vez que reparar seu veiculo pelo gerenciador de carros da concessionária."
+					/>
+		<setting name="*priceBring" value="[1000]"
+					friendlyname="Custo para trazer o veiculo"
+					accept="0-10000"
+					group="Custos de serviço:"
+					desc="Esta configuração determina quanto de dinheiro o jogador vai gastar toda vez que trazer seu veiculo pelo gerenciador de carros da concessionária."
+					/>
+	</settings>
+</meta>
