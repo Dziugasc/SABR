@@ -3,6 +3,3 @@ function respawnExplodedVehicle()
     setVehicleColor ( source,math.random(0,255),math.random(0,255),math.random(0,255))
 	end
 addEventHandler("onVehicleExplode", getRootElement(), respawnExplodedVehicle)
-
-
-

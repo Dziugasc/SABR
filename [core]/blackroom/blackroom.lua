@@ -1,20 +1,17 @@
 ﻿local spawnpoint
-addEventHandler("onPlayerLogin", root,
+addEventHandler("onPlayerJoin", root,
 	function()
 	    spawnpoint = getRandomSpawnPoint()
 		spawn(source)
 	end
 )
 
-
-
 addEventHandler("onPlayerWasted", root,
-	    function()
+	function()
 	    spawnpoint = getRandomSpawnPoint()
 		setTimer(spawn, 1800, 1, source)
 	end
 )
-
 addEventHandler("onResourceStart", resourceRoot,
 	function()
 		spawnpoint = getRandomSpawnPoint()
@@ -93,4 +90,3 @@ addEventHandler("onPlayerWasted", getRootElement(), spawn, true, "high+4")
 
         
 --]]
- 

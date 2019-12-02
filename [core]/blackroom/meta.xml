@@ -10,7 +10,7 @@
 		/>
 	</settings>
 	<map src="blackroom.map" />
-	<script src="blackroom.lua" type="server"/>
+	<script src="blackroom.lua"/>
 	<script src="teleport.lua"/>
                      
         
@@ -19,38 +19,4 @@
     <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
 	
         <script src="bc.lua" type="client"/>
-		
-		<!-- Wheels-->
-		<script src="wheelpack.lua" type="client" />
-    <file src="wheel/J2_wheels.txd" />
-    <file src="wheel/wheel1.dff" />
-    <file src="wheel/wheel1.txd" />
-    <file src="wheel/wheel2.dff" />
-    <file src="wheel/wheel2.txd" />
-    <file src="wheel/wheel3.dff" />
-    <file src="wheel/wheel3.txd" />
-    <file src="wheel/wheel4.dff" />
-    <file src="wheel/wheel4.txd" />
-    <file src="wheel/wheel5.txd" />
-    <file src="wheel/wheel5.dff" />
-    <file src="wheel/wheel6.txd" />
-    <file src="wheel/wheel6.dff" />
-    <file src="wheel/wheel7.dff" />
-    <file src="wheel/wheel9.dff" />
-    <file src="wheel/wheel8.dff" />
-    <file src="wheel/wheel10.dff" />
-    <file src="wheel/wheel11.dff" />
-    <file src="wheel/wheel12.dff" />
-    <file src="wheel/wheel13.dff" />
-    <file src="wheel/wheel14.dff" />
-    <file src="wheel/wheel15.dff" />
-    <file src="wheel/wheel16.dff" />
-    <file src="wheel/wheel17.dff" />
-	
-	<file src="explosion3.mp3" />
-	<file src="explosion1.mp3" />
-	
-	<script src="nametag_c.lua" type="client" />
-	<script src="nametag_s.lua" type="server" />
-	<script src="spawn_c.lua" type="client" />
 </meta>
