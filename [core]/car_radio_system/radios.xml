@@ -1,5 +1,6 @@
 ﻿<root>
 	<radio name="ZIP fm" path="http://84.46.205.13:80/zipfm64.aac"  type="4"/>
+	<radio name="Rusradio.lt" path="http://5.20.223.18/rrb128.mp3"  type="4"/>
 	<radio name="European Hit Radio" path="http://84.46.162.57:8000/ehr"  type="4"/> 
 	<radio name="Dubstep, drum and bass" path="http://stream.dubbase.fm:7002"  type="2"/>
 	<radio name="Electro, dance, house" path="http://stream.electroradio.ch:26630/listen.pls" type="2" />
