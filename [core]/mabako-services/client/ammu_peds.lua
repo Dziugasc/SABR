@@ -119,4 +119,4 @@ setPedVoice(ammu_d3, "PED_TYPE_DISABLED")
 setPedFrozen ( ammu_d3, true )
 setElementDimension (ammu_d3, 3)
 end
-addEventHandler('onClientResourceStart', getResourceRootElement(),ammustaff_D)
+addEventHandler('onClientResourceStart', getResourceRootElement(),ammustaff_D) 
