@@ -4,7 +4,7 @@
 
 Public Services - Shops
 (c) 2008 mabako network. All Rights reserved.
-
+ 
 ]]
 
 local _local = getLocalPlayer()
