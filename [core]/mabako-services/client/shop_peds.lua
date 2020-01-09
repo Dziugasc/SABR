@@ -65,7 +65,7 @@ setElementDimension (burger9, 9)
 
 burger10 = createPed ( 205, 0, 0, 0 )
 setElementInterior (burger10, 10, 377.07147216797, -65.847152709961, 1001.5078125)
-setPedVoice(burger10, "PED_TYPE_DISABLED")
+setPedVoice(burger10, "PED_TYPE_DISABLED") 
 setPedFrozen ( burger10, true )
 setPedRotation (burger10, 180)
 setElementDimension (burger10, 10)
