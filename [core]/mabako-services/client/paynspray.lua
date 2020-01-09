@@ -14,7 +14,7 @@ local isLocalCol = {}
 
 
 function isPositionInColShape( colsh, x0, y0, z0, x1, y1, z1 )
-	for v = 1,#cols,1 do
+	for v = 1,#cols,1 do 
 		if( cols[v].Col == colsh ) then
 
 			if( x0 >= cols[v].A
