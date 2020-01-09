@@ -12,7 +12,7 @@ setGarageOpen(47,true)
 end
 addEventHandler('onClientResourceStart', getResourceRootElement(),opengarage)
 
-
+ 
 function closegarage()
 setGarageOpen(8,false)
 setGarageOpen(11,false)
