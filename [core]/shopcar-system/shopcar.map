@@ -1,4 +1,4 @@
-<map edf:definitions="editor_main">
+<map edf:definitions="editor_main"> 
     <removeWorldObject id="removeWorldObject (EasBeBrij1_LAe2) (1)" radius="53.024227" interior="0" model="17550" lodModel="17772" posX="2870.2422" posY="-1589.3906" posZ="16.5625" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
 	<removeWorldObject id="removeWorldObject (veg_palm04) (1)" radius="22.657042" interior="0" model="620" lodModel="0" posX="2809.4219" posY="-1567.6328" posZ="9.54688" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
     <removeWorldObject id="removeWorldObject (lamppost2) (1)" radius="8.8853035" interior="0" model="1290" lodModel="0" posX="2808.7595" posY="-1562.4871" posZ="10.69997" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
