@@ -1,7 +1,7 @@
 ﻿function table.copy(theTable)
 	local t = {}
 	for k, v in pairs(theTable) do
-		if type(v) == "table" then
+		if type(v) == "table" then 
 			t[k] = table.copy(theTable)
 		else
 			t[k] = v
