@@ -3,7 +3,7 @@
 	{2850.66, -1585.2, 12},
 	{2858.22, -1581.4, 12}
 }
-	
+	 
 addCommandHandler ("conce", function (thePlayer, command)
 	local azar = math.random (#posicoes)
 	local veh = getPedOccupiedVehicle (thePlayer)
