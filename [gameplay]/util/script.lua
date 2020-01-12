@@ -6,7 +6,7 @@ function commitSuicide ( sourcePlayer )
 end
 addCommandHandler ( "kill", commitSuicide )
 
-function para( player, commandName ) 
+function para( player, commandName )  
     giveWeapon ( player, 46, 1) 
 end  
 addCommandHandler ( "parachute", para ) 
