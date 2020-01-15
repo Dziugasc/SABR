@@ -3,7 +3,7 @@
 -- VERSION:	RemoveWorldObjects (v1) AutoLOD (v1)
 
 local usedLODModels = {}
-
+ 
 function onResourceStartOrStop ( )
 	for _, object in ipairs ( getElementsByType ( "removeWorldObject", source ) ) do
 		local model = getElementData ( object, "model" )
