@@ -1,7 +1,7 @@
 local screenWidth, screenHeight = guiGetScreenSize()
 
 -- 'Textures'
-local speedometerBG = "textures/speedometerBG.png"
+local speedometerBG = "textures/speedometerBG.png" 
 local speedoBGTex = dxCreateTexture ( speedometerBG, "argb", true, "clamp" )
 local speedometerBG2 = "textures/speedometerBG2.png"
 local speedoBGTex2 = dxCreateTexture ( speedometerBG2, "argb", true, "clamp" )
