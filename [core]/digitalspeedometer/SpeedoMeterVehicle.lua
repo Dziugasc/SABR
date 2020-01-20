@@ -1,7 +1,7 @@
 local smoothedRPMRotation = 0
 local vehicleNos = nil
 local vehicleRPM = 0
-
+ 
 
 -- 'main stats'
 function refreshVehicle()
