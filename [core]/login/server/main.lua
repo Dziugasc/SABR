@@ -3,7 +3,7 @@ function login(username, password, checksave)
 	if not (username == "") then
 		if not (password == "") then
 			local account = getAccount(username, password)
-			if (account ~= false) then
+			if (account ~= false) then 
 				displayServerMessageLogin(source, "Successfully logged in", "confirm")
 				logIn(source, account, password)
 				triggerClientEvent(source, "removeLogin", getRootElement())
