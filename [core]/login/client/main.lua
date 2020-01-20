@@ -1,7 +1,7 @@
 ﻿-------------------------------  # C R O W N ---------------------------------
 local screenW, screenH = guiGetScreenSize()
 local x, y = (screenW/1366), (screenH/768)
-
+ 
 checkBox1 = guiCreateCheckBox(x*519, y*389, x*17, y*18, "", false, false)
 checkBox2 = guiCreateCheckBox(x*731, y*389, x*17, y*18, "", false, false)
 
