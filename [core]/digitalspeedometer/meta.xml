@@ -5,7 +5,7 @@
 	<script src="SpeedoMeterVehicle.lua" type="client"/>
 	<script src="SpeedoMeterUtils.lua" type="client"/>
 	
-	<!-- textures  -->
+	<!-- textures  --> 
 	<file src="textures/speedometerBG.png" type="client"/>
 	<file src="textures/speedometerBG2.png" type="client"/>
 	<file src="textures/speedometerNeedleWhite.png" type="client"/>
