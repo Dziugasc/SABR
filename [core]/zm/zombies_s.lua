@@ -2,7 +2,7 @@
 local maxZombies = 50 --Maximum amount of zombies in the zombie area. Be careful, setting this too high can cause lagging to clients with bad videocard/memory.
 local minSpawnDistance = 10 --Minium distance that zombies can spawn from player
 local maxSpawnDistance = 30 --Maximum distance that zombies can spawn from player ::NOTE: Dont set any higher than 70 or you'll run into a script error and it wont work anymore (limitation due to field size/width/height)
-local maxSyncDistance = 100 --Distance what zombies HAVE TO have to another player, do not set this above 140 or syncing will start bugging. Recommended to keep below or exact to 120
+local maxSyncDistance = 100 --Distance what zombies HAVE  TO have to another player, do not set this above 140 or syncing will start bugging. Recommended to keep below or exact to 120
 local zombieHealth = 20
 local zombieWalkingStyle = 123  --Change walking style of zombies with one ID from this list: https://wiki.multitheftauto.com/wiki/SetPedWalkingStyle
 local minSpawnAtOnce = 3 --Amount of zombies spawning at once when the spawninterval decides to spawn zombies.
