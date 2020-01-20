@@ -6,7 +6,7 @@
 	
 
 	<script src="server/main.lua" type="server" />
-
+ 
 
 	<file src="gfx/img/wallpaper.png" />
 	<file src="gfx/img/logo.png" />
