@@ -1,6 +1,6 @@
 --SCRIPT SETTINGS START HERE--
 local noPVP = true
---SCRIPT SETTINGS END HERE
+--SCRIPT SETTINGS END HERE 
 
 local sw,sh = guiGetScreenSize()
 local tx = sw/2
