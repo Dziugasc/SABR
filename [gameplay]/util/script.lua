@@ -73,8 +73,8 @@ function enableGlitches ()
 end
 addEventHandler ( "onResourceStart", getResourceRootElement ( ),enableGlitches)
 
-addCommandHandler ( "myexp", function ( thePlayer )
+--[[addCommandHandler ( "myexp", function ( thePlayer )
 
                local myExp = exports.exp_system:getPlayerEXP ( thePlayer )
 
-outputChatBox ( "Your experience is: ".. myExp, thePlayer ) end ) 
+outputChatBox ( "Your experience is: ".. myExp, thePlayer ) end ) --]]
